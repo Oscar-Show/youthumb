@@ -43,7 +43,7 @@ class MyDocument extends Document {
     <tr>
       <th>
         <h3 >
-          <p2>Add YouTube Vide URL</p2>
+          Add YouTube Vide URL
         </h3>
         <p>
           Just add the YouTube video URL in the corresponding field.
@@ -51,7 +51,7 @@ class MyDocument extends Document {
       </th>
       <th>
         <h3>
-          <p2>Auto-Generate</p2>
+          Auto-Generate
         </h3>
         <p>
           The YouTube video thumbnail will be generated automatically as soon
@@ -60,7 +60,7 @@ class MyDocument extends Document {
       </th>
       <th>
         <h3>
-          <p2>Download</p2>
+          Download
         </h3>
         <p>
          Hit the Download button to store the YouTube thumbnail image on
