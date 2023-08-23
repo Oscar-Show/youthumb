@@ -33,6 +33,7 @@ input[type="text"] + button {
   background-color: #3498db;
   color: white;
   font-weight: bold;
+  align-items: center;
   padding: 0.5rem 1rem;
   border-radius: 4px;
   cursor: pointer;
