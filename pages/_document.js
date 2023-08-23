@@ -38,20 +38,48 @@ class MyDocument extends Document {
               videos.
             </p>
 
-            <h2>Add YouTube Video URL</h2>
-            <p>Just add the YouTube video URL in the corresponding field.</p>
-
-            <h2>Auto-Generate</h2>
-            <p>
-              The YouTube video thumbnail will be generated automatically as
-              soon as you add the URL.
-            </p>
-
-            <h2>Download</h2>
-            <p>
-              Hit the Download button to store the YouTube thumbnail image on
-              your device in .JPG format.
-            </p>
+            <table>
+  <tbody>
+    <tr>
+      <th>
+        <h3 style="text-align: center;">
+          <p2><span style="font-size: medium;">Add YouTube Vide URL</span></p2>
+        </h3>
+        <p style="text-align: center;">
+          <span style="font-weight: normal;"
+            ><span style="color: #444444;"
+              >Just add the YouTube video URL in the corresponding field.</span
+            ></span
+          >
+        </p>
+      </th>
+      <th>
+        <h3 style="text-align: center;">
+          <p2><span style="font-size: medium;">Auto-Generate</span></p2>
+        </h3>
+        <p style="text-align: center;">
+          <span style="color: #444444; font-weight: normal;"
+            >The YouTube video thumbnail will be generated automatically as soon
+            as you add the URL.</span
+          >
+        </p>
+      </th>
+      <th>
+        <h3 style="text-align: center;">
+          <p2><span style="font-size: medium;">Download</span></p2>
+        </h3>
+        <p style="text-align: center;">
+          <span style="font-weight: normal;"
+            ><span style="color: #444444;"
+              >Hit the Download button to store the YouTube thumbnail image on
+              your device in .JPG format.</span
+            ></span
+          >
+        </p>
+      </th>
+    </tr>
+  </tbody>
+</table>
 
             <h2>What's the Purpose of this YouTube Thumbnail Downloader Website?</h2>
             <p>
