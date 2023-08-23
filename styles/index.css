@@ -79,6 +79,15 @@ input[type="text"] + button {
   transition: background-color 0.2s;
 }
 
+h2{
+  color: #990000;
+}
+
+#p2{
+  color: #201a1a;
+  font-family: Arial;
+}
+
 .thumbnail-option button:hover {
   background-color: #2680c5;
 }
