@@ -42,39 +42,29 @@ class MyDocument extends Document {
   <tbody>
     <tr>
       <th>
-        <h3 style="text-align: center;">
-          <p2><span style="font-size: medium;">Add YouTube Vide URL</span></p2>
+        <h3 >
+          <p2>Add YouTube Vide URL</p2>
         </h3>
-        <p style="text-align: center;">
-          <span style="font-weight: normal;"
-            ><span style="color: #444444;"
-              >Just add the YouTube video URL in the corresponding field.</span
-            ></span
-          >
+        <p>
+          Just add the YouTube video URL in the corresponding field.
         </p>
       </th>
       <th>
-        <h3 style="text-align: center;">
-          <p2><span style="font-size: medium;">Auto-Generate</span></p2>
+        <h3>
+          <p2>Auto-Generate</p2>
         </h3>
-        <p style="text-align: center;">
-          <span style="color: #444444; font-weight: normal;"
-            >The YouTube video thumbnail will be generated automatically as soon
-            as you add the URL.</span
-          >
+        <p>
+          The YouTube video thumbnail will be generated automatically as soon
+            as you add the URL.
         </p>
       </th>
       <th>
-        <h3 style="text-align: center;">
-          <p2><span style="font-size: medium;">Download</span></p2>
+        <h3>
+          <p2>Download</p2>
         </h3>
-        <p style="text-align: center;">
-          <span style="font-weight: normal;"
-            ><span style="color: #444444;"
-              >Hit the Download button to store the YouTube thumbnail image on
-              your device in .JPG format.</span
-            ></span
-          >
+        <p>
+         Hit the Download button to store the YouTube thumbnail image on
+              your device in .JPG format.
         </p>
       </th>
     </tr>
