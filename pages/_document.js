@@ -71,14 +71,14 @@ class MyDocument extends Document {
   </tbody>
 </table>
 
-            <h2>What's the Purpose of this YouTube Thumbnail Downloader Website?</h2>
+            <h2>▷ What's the Purpose of this YouTube Thumbnail Downloader Website?</h2>
             <p>
               Users employ this online YouTube thumbnail downloader to acquire
               thumbnails from any YouTube video, suitable for applications such
               as presentations, animation projects, and various other endeavors.
             </p>
 
-            <h2>How to Utilize this YouTube Thumbnail Downloader Website?</h2>
+            <h2>▷ How to Utilize this YouTube Thumbnail Downloader Website?</h2>
             <p>
               Comprehensive instructions are provided below, illustrated with
               screenshots, detailing the steps to effectively employ this
@@ -92,7 +92,7 @@ class MyDocument extends Document {
               download methods.
             </p>
 
-            <h2>Is Downloading YouTube Thumbnails Lawful?</h2>
+            <h2>▷ Is Downloading YouTube Thumbnails Lawful?</h2>
             <p>
               Absolutely, it is entirely legal to download YouTube video
               thumbnails. However, it's crucial to acknowledge that both
@@ -101,7 +101,7 @@ class MyDocument extends Document {
               owner is imperative before reusing downloaded thumbnails.
             </p>
 
-            <h2>Compatibility of the YouTube Thumbnail Extraction Website</h2>
+            <h2>▷ Compatibility of the YouTube Thumbnail Extraction Website</h2>
             <p>
               This Youtube Thumbnails Downloader  website functions seamlessly
               on a variety of devices, excluding iPhones due to their
@@ -111,7 +111,7 @@ class MyDocument extends Document {
               laptops, and desktop systems.
             </p>
 
-            <h2>Are There Copyright Concerns Associated with YouTube Thumbnails?</h2>
+            <h2>▷ Are There Copyright Concerns Associated with YouTube Thumbnails?</h2>
             <p>
               The Youtube Thumbnails Downloader  you retrieve retain the
               copyright of their respective owners. Requesting permission is
@@ -122,7 +122,7 @@ class MyDocument extends Document {
               copyright claims.
             </p>
 
-            <h2>SEO Implications of Reusing YouTube Thumbnails</h2>
+            <h2>▷ SEO Implications of Reusing YouTube Thumbnails</h2>
             <p>
               In short, reusing YouTube thumbnails does not align with SEO best
               practices, as most YouTube thumbnails are indexed by Google,
