@@ -134,6 +134,15 @@ class MyDocument extends Document {
 
             <p>Download YouTube video thumbnails</p>
           </div>
+          <footer>
+            <div>
+              <p>&copy; 2023 Your Website Name. All rights reserved.</p>
+            </div>
+            <div>
+              <a href="/terms">Terms of Service</a> |{" "}
+              <a href="/privacy">Privacy Policy</a>
+            </div>
+          </footer>
         </body>
       </Html>
     );
