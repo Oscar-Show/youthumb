@@ -27,7 +27,8 @@ class MyDocument extends Document {
         </Head>
         <body>
           <Main />
-          <NextScript />    
+          <NextScript />
+          <div>
             <h1>Youtube Thumbnails Downloader Tool</h1>
             <p>▷ Extract and Save YouTube Video Thumbnails</p>
             <p>
@@ -36,7 +37,7 @@ class MyDocument extends Document {
               Currently supports various formats: YouTube (HD, HQ, 1080p, 4K)
               videos.
             </p>
-            <div>
+
             <table>
   <tbody>
     <tr>
