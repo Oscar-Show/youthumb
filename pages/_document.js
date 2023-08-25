@@ -140,7 +140,7 @@ class MyDocument extends Document {
             </div>
             <div>
               <a href="/terms">Terms of Service</a> |{" "}
-              <a href="https://www.youtube-thumbnails-downloader.com/pages/Privacy%20Policy">Privacy Policy</a>
+              <a href="pages/Privacy Policy">Privacy Policy</a>
             </div>
           </footer>
         </body>
