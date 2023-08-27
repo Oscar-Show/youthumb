@@ -24,6 +24,16 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+                  
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-SNW82KDX76"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-SNW82KDX76');
+          </script>
         </Head>
         <body>
           <Main />
